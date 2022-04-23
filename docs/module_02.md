@@ -15,13 +15,13 @@
 - O Ruby infere o tipo da variável pelo seu valor.
 - Para saber o tipo da variável use o método .class.
 - stdout - saída padrão do dispositivo (tela).
-- puts - put string.
+- `puts` - put string.
 - stdin - entrada padrão do dispositivo (teclado).
-- gets - get string.
-- O método .chomp remove o \n do final das strings.
-- v.inspect - mostrar o valor não interpretado da váriavel.
+- `gets` - get string.
+- O método `.chomp` remove o \n do final das strings.
+- `v.inspect` - mostra o valor não interpretado da váriavel.
 - Coerção, cast ou casting é o processo de alteração do tipo de uma variável.
-- v.to_i - converte para inteiro.
-- v.to_f - converte para float.
-- v.to_s - converte para string.
+- `v.to_i` - converte para inteiro.
+- `v.to_f` - converte para float.
+- `v.to_s` - converte para string.
 - Ruby é uma linguagem dinâmica e fortemente tipada.
