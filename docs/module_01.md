@@ -1,0 +1,27 @@
+# Módulo 01 - Conceitos Básicos
+
+- 1995 - Japão - Yukihiro Matsumoto.
+- 2000 - EUA - Dave Thomas e Andy Hunt.
+- 2003 - Ruby on Rails - David Heinemeier Hanson e Jason Fried.
+- O processo de programar é muito mais rápido do que em outros frameworks e linguagens.
+- As convenções Rails também tornam fácil para os desenvolvedores se moverem entre diferentes projetos, onde cada um segue as mesmas estruturas e práticas de codificação.
+- Rails é bom para Rapid Application Development (RAD), como framework é fácil incluir mudanças.
+- Código ruby é muito legível e autodocumentado. Isso melhora a produtividade pois escreve-se menos documentação separada do projeto e torna fácil outros desenvolvedores pegarem projetos existentes.
+- Rails tem sido desenvolvido com um grande foco em testes e possui bons frameworks de testes...
+- Rails e a grande maioria das bibliotecas são open source, diferentemente de outros frameworks comerciais, não existem custos de licença envolvidos.
+- Rails usa o padrão de arquitetura MVC (Model, View, Controller).
+- Ruby é uma linguagem de programação interpretada multiparadigma, dinâmica, open source com foco na simplicidade e na produtividade. Tem uma sintaxe elegante de leitura natural e fácil escrita.
+- As gems são bibliotecas ou conjuntos de arquivos Ruby reutilizáveis, etiquetados com um nome e uma versão.
+- Ruby on Rails é um framework escrito em Ruby.
+- Um framework (ou arcabouço), em desenvolvimento de software, é uma abstração que une códigos comuns entre vários projetos de software provendo uma funcionalidade genérica. Um framework pode atingir uma funcionalidade específica, por configuração, durante a programação de uma aplicação.
+- Rails é um framework de desenvolvimento de aplicações Web escrito na linguagem Ruby. Ele foi projetado para tornar a programação Web fácil ao tempo que faz suposições sobre o que o programador precisa para começar. Isso permite escrever menos código enquanto faz mais do que em outras linguagens e frameworks. Desenvolvedores mais experientes também reportam que isso torna o desenvolvimento web mais divertido.
+- Rails é um software opinativo. Ele faz suposições da melhor forma de como fazer coisas, e é projetado para o encorajar a seguir esse caminho e em alguns casos desencoraja alternativas.
+- Não se repita (Don't Repeat Yourself - DRY). DRY é um princípio de desenvolvimento de software que afirma que "Cada pedaço do conhecimento deve ter uma representação única, não ambígua e autoritária dentro de um sistema".
+- Convenção sobre Configuração (Convention Over Configuration - CoC): Rails tem opiniões sobre a melhor maneira de padronizar e fazer muitas coisas em uma aplicação web, em vez de exigir que você especifique cada minúcia através de infinitos arquivos de configuração.
+- `ruby -v` - versão do Ruby.
+- gem - gerenciador de pacotes ruby.
+- `gem install rails` - instala a versão mais atual do rails.
+- `gem install rails -v 5.2.0` - instala a versão 5.2.0 do rails.
+- `gem install rails --version=5.2.0` - instala a versão 5.2.0 do rails.
+- `rails new <project-name>` - cria um novo projeto rails.
+- `rails server` - start um servidor que você pode acessar em localhost:3000.
