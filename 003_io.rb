@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 puts 'Type your name:'
 name = gets
 puts "Hello, #{name}!"

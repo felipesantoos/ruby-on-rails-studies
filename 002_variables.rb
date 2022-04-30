@@ -1,6 +1,8 @@
+# frozen_string_literal: true
+
 x = 1
 y = 3.14
-z = "hello world"
+z = 'hello world'
 
 puts x
 puts y
