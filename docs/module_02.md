@@ -25,3 +25,9 @@
 - `v.to_f` - converte para float.
 - `v.to_s` - converte para string.
 - Ruby é uma linguagem dinâmica e fortemente tipada.
+- hash: lista do tipo chave-valor.
+- strings: aspas simples ou duplas.
+- +: concatenação gera um novo objeto (diminui performance).
+- \>>: shovel (pá). Concatena uma string no final de outra. Não gera um novo objeto.
+- Símbolos são muito usados em situações onde precisamos de um identificador pois eles garantem que seu uso não implicará na criação de novos objetos sempre que usados.
+- Os parênteses são opcionais.
