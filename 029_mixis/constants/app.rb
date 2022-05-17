@@ -3,6 +3,6 @@
 require_relative 'payment'
 
 include Payment
+puts PI # needs include
 
-puts Payment::PI
-puts PI
+puts Payment::PI # direct way

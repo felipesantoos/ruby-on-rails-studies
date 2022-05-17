@@ -3,10 +3,10 @@
 # Ruby modules are similiar to classes when we consider that they storage a
 # collection of methods, constants and others definitions of modules and classes.
 
-# You can not create objects using modules. You can only define what what
+# You can not create objects using modules. You can only define what
 # functionalities you want to add to your class or specific object.
 
-# Modules does not support inheritance or hierarchy.
+# Modules does not support inheritance.
 
 # Modules are good places to storage constants in a centralized place.
 
@@ -16,5 +16,3 @@
 # You can mix modules with classes, i.e., you can include modules inside classes.
 # When you do this, all the instance module methods become available as if it had
 # been defined by the class.
-
-
